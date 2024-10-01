@@ -1,0 +1,28 @@
+Focalizar con varios objetos: punto del teclado numérico derecha
+
+Añadir objetos: shift+a
+Rotar: R
+Escalar: S
+Rotar + escalar: G
+
+Mover en un solo eje: G + x/y/z
+
+Nombrar bien los archivos
+
+Modo edición de objetos: tab (añade más menú)
+- Así se puede editar los vértices de los objetos con el modo selección
+-Vértices: 1 (del de arriba)
+-Aristas: 2 (del de arriba)
+-Caras: 3 (del de arriba)
+
+
+-Solo se puede cambiar al tamaño de los objetos al crearlos
+
+-Estirar es mejor con modo edición y después seleccionando esa cara + g + z/x/y
+
+-Cuidado con las caras y los extrude
+
+Seleccionar caras alt + click en medio de las caras
+
+-Salir del menú de dedición para añadir objetos
+
